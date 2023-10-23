@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://rekapan-angkahk.github.io/li-1/sitemap.xml
